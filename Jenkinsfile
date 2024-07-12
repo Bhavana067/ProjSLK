@@ -11,7 +11,7 @@ pipeline
                 echo 'Clean'
                 bat '''d:
                 cd D:\\Bhavna110072\\temp7
-                rmdir temp1''' //deleting directory
+                rmdir temp2'''
             }
         }
         stage('Clone')
